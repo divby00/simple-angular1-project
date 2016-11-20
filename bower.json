@@ -1,0 +1,17 @@
+{
+    "name": "simple-angular1-project",
+    "description": "Simple project",
+    "version": "0.0.0",
+    "homepage": "",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "jquery": "3.1.1",
+        "angular": "1.5.8",
+        "angular-ui-router": "0.3.2",
+        "bootstrap-sass": "3.3.7",
+        "lodash": "4.17.2",
+        "moment": "2.16.0"        
+    }
+}
+

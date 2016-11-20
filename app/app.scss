@@ -1,0 +1,12 @@
+@import '../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+
+.appname {
+    $app-font-size: 16px;
+    @font-face {
+        font-family: Lacuna;
+        src: url('./resources/lacuna.ttf') format('ttf');
+    }
+    font-family: Lacuna;
+    font-size: $app-font-size;
+    box-sizing: border-box;
+}
